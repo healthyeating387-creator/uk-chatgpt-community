@@ -1,0 +1,654 @@
+# CBK-000009 — First External Contributors
+
+**Project:** UK ChatGPT Community  
+**Version:** 1.0  
+**Status:** Stage 0 — Founder  
+**Purpose:** Recruit and onboard the first external contributors
+
+---
+
+## 1. Purpose
+
+This document defines how people outside the founding group can discover, evaluate, join and contribute to the UK ChatGPT Community.
+
+The objective is not to maximise the number of contributors.
+
+The objective is to find the first small group of reliable, capable and constructive people who can help build the community.
+
+---
+
+## 2. Core Principle
+
+> **Contribution earns responsibility.**
+
+Nobody receives significant authority simply because they express enthusiasm.
+
+People progress through demonstrated contribution, reliability, judgement and respect for the community.
+
+---
+
+## 3. Current Founder State
+
+The project currently begins with one founder:
+
+**Founder:** Julian Martinez Ramirez-Cruzado
+
+Stage 0 founder responsibilities include:
+
+- maintaining the vision;
+- coordinating the initial documentation;
+- establishing the repository;
+- initiating the first website;
+- establishing the initial community structure;
+- recruiting the first builders.
+
+The founder is not expected to remain responsible for every function permanently.
+
+The system is specifically designed for progressive delegation.
+
+---
+
+# 4. Contributor Journey
+
+The intended journey is:
+
+Visitor  
+↓  
+Interested Person  
+↓  
+Applicant  
+↓  
+Contributor  
+↓  
+Founding Builder  
+↓  
+Maintainer  
+↓  
+Community Leader
+
+Progression is not automatic.
+
+Each stage requires evidence of suitability.
+
+---
+
+# 5. How People Discover the Project
+
+Potential contributors may discover the project through:
+
+- Google;
+- GitHub;
+- social media;
+- technology communities;
+- universities;
+- existing meetups;
+- robotics communities;
+- AI communities;
+- personal networks;
+- company networks;
+- articles;
+- community events.
+
+The project should actively distribute its existence rather than relying on GitHub discovery alone.
+
+---
+
+# 6. The First Public Message
+
+The recruitment message should be simple.
+
+Example:
+
+> **We're building the UK ChatGPT Community from the ground up — in public.**
+>
+> We're looking for our first builders in web development, design, AI, robotics, research, community organisation and engineering.
+>
+> No large organisation exists behind this project yet.
+>
+> That's the point.
+>
+> We're building the infrastructure, documentation and community together.
+>
+> If you want to help build it, start with one small contribution.
+
+---
+
+# 7. No Requirement for Immediate Commitment
+
+A person does not need to commit to the entire project.
+
+A potential contributor may begin with a small task.
+
+Examples:
+
+- fix documentation;
+- improve a README;
+- test the website;
+- research a meetup venue;
+- suggest an event;
+- improve a design;
+- write an article;
+- identify a technical problem;
+- review a document.
+
+---
+
+# 8. First Contribution Principle
+
+The first contribution should be:
+
+- small;
+- clearly defined;
+- achievable;
+- reviewable;
+- useful.
+
+A contributor should not need privileged repository access to demonstrate their ability.
+
+---
+
+# 9. Contribution Levels
+
+## Level 0 — Visitor
+
+Can:
+
+- read;
+- observe;
+- open issues;
+- provide public feedback where enabled.
+
+No repository write access.
+
+## Level 1 — Contributor
+
+Can:
+
+- submit pull requests;
+- propose improvements;
+- participate in discussions;
+- work on assigned issues.
+
+No direct modification of protected branches.
+
+## Level 2 — Founding Builder
+
+A trusted contributor with demonstrated reliability.
+
+May receive additional responsibilities.
+
+Possible areas:
+
+- website;
+- documentation;
+- community;
+- meetups;
+- research;
+- design;
+- infrastructure.
+
+## Level 3 — Maintainer
+
+Responsible for maintaining a defined technical or operational area.
+
+Maintainer access is granted only after demonstrated competence and reliability.
+
+## Level 4 — Community Lead
+
+Responsible for a defined community function or regional hub.
+
+Leadership must be documented and transferable.
+
+---
+
+# 10. Repository Permission Principle
+
+Repository access follows the minimum required privilege principle.
+
+A person should receive only the access necessary for their current responsibility.
+
+High-level permissions must never be given merely because somebody asks for them.
+
+---
+
+# 11. Protected Branch
+
+The `main` branch should eventually be protected.
+
+Important changes should normally occur through:
+
+**Issue → Branch → Pull Request → Review → Merge**
+
+Direct uncontrolled modification of important production material should be avoided as the project grows.
+
+---
+
+# 12. Pull Requests
+
+A pull request should explain:
+
+- what changed;
+- why it changed;
+- what files were affected;
+- how it was tested;
+- whether documentation changed;
+- whether the change introduces risks.
+
+---
+
+# 13. Review
+
+Reviews should evaluate:
+
+- correctness;
+- usefulness;
+- maintainability;
+- security;
+- accessibility;
+- consistency;
+- documentation;
+- compatibility with the Constitution;
+- compatibility with the Scalation Protocol.
+
+---
+
+# 14. Candidate Information
+
+Where an application process is used, candidates may provide:
+
+- name;
+- preferred public identity;
+- skills;
+- relevant experience;
+- GitHub profile;
+- portfolio;
+- area of interest;
+- availability;
+- proposed contribution.
+
+The community should avoid collecting unnecessary personal information.
+
+---
+
+# 15. CV and Portfolio Principle
+
+A CV can provide useful context.
+
+However:
+
+> **A small real contribution is stronger evidence than a CV alone.**
+
+Where practical, candidates should be invited to demonstrate their ability through a small task.
+
+---
+
+# 16. Candidate Evaluation
+
+Candidates should be evaluated on:
+
+- competence;
+- reliability;
+- communication;
+- collaboration;
+- judgement;
+- respect;
+- ability to work within documented processes;
+- quality of contribution.
+
+The project should not favour people merely because of status, job title or popularity.
+
+---
+
+# 17. Founding Builder Selection
+
+The first founding builders should ideally demonstrate at least one of:
+
+- strong technical capability;
+- strong design capability;
+- strong research capability;
+- strong community capability;
+- strong organisational capability;
+- valuable industry knowledge.
+
+The founding group should become multidisciplinary.
+
+---
+
+# 18. Initial Builder Roles
+
+Potential initial roles:
+
+### Web Engineer
+
+Builds and maintains the website.
+
+### UI/UX Designer
+
+Develops the visual and interaction system.
+
+### Community Builder
+
+Develops community processes and member engagement.
+
+### Meetup Coordinator
+
+Helps establish physical events.
+
+### AI/Research Contributor
+
+Researches AI and related technical developments.
+
+### Robotics/Automation Contributor
+
+Explores practical robotics and automation projects.
+
+### Documentation Engineer
+
+Maintains technical and organisational documentation.
+
+### QA Contributor
+
+Tests the website and project infrastructure.
+
+### Security Adviser
+
+Reviews security risks and practices.
+
+These roles may initially be performed by the same person.
+
+---
+
+# 19. Founder Delegation
+
+The founder should progressively delegate responsibilities as suitable people become available.
+
+Delegation should occur when:
+
+- a person has demonstrated reliability;
+- responsibilities are documented;
+- the person understands the relevant rules;
+- another person can review their work where appropriate.
+
+---
+
+# 20. No Permanent Founder Bottleneck
+
+The community must not become dependent on one person forever.
+
+Every major responsibility should eventually have:
+
+- owner;
+- backup;
+- documentation;
+- succession path.
+
+---
+
+# 21. Maintainer Requirements
+
+Before receiving maintainer responsibility, a contributor should normally demonstrate:
+
+- successful contributions;
+- reliable communication;
+- understanding of project standards;
+- responsible handling of access;
+- ability to review other work;
+- willingness to document decisions.
+
+---
+
+# 22. Access Removal
+
+Access may be reduced or removed when:
+
+- responsibilities end;
+- a person becomes inactive;
+- security requires it;
+- rules are repeatedly violated;
+- privileged access is misused.
+
+Access decisions should be documented where appropriate.
+
+---
+
+# 23. Conflict of Interest
+
+Contributors should disclose relevant conflicts of interest where they could materially affect a project decision.
+
+Examples may include:
+
+- financial interests;
+- competing projects;
+- commercial relationships;
+- organisational conflicts.
+
+---
+
+# 24. Respectful Collaboration
+
+The community welcomes disagreement.
+
+Disagreement should focus on:
+
+- evidence;
+- engineering;
+- reasoning;
+- outcomes.
+
+Personal attacks are not acceptable.
+
+---
+
+# 25. Quality Over Speed
+
+The project would rather have:
+
+**5 excellent contributors**
+
+than:
+
+**500 inactive accounts.**
+
+Growth is valuable only when the community can maintain quality.
+
+---
+
+# 26. First Ten Contributors
+
+The initial objective is to identify approximately ten serious contributors across different capabilities.
+
+Possible composition:
+
+- 2 web/software;
+- 1 design;
+- 1 AI/research;
+- 1 robotics/automation;
+- 2 community/meetup;
+- 1 documentation;
+- 1 QA/security;
+- 1 general technical/community builder.
+
+This is an indicative target, not a fixed requirement.
+
+---
+
+# 27. First Contribution Campaign
+
+The first recruitment campaign should publish several small, clearly defined tasks.
+
+Examples:
+
+### Task 001
+Review the website specification.
+
+### Task 002
+Design a homepage concept.
+
+### Task 003
+Research three suitable London meetup venues.
+
+### Task 004
+Test the repository onboarding process.
+
+### Task 005
+Suggest improvements to the meetup system.
+
+### Task 006
+Research UK AI/robotics communities that could be relevant.
+
+### Task 007
+Review the website for accessibility.
+
+### Task 008
+Build a simple website prototype.
+
+Each task should have a clear completion condition.
+
+---
+
+# 28. Public Build Principle
+
+Whenever practical, project progress should be visible publicly.
+
+The community should demonstrate:
+
+- what has been built;
+- what is being built;
+- what remains;
+- what help is needed.
+
+This makes participation concrete.
+
+---
+
+# 29. Recruitment Should Not Misrepresent the Project
+
+The community must not claim:
+
+- official OpenAI backing;
+- government backing;
+- university backing;
+- corporate partnership;
+- investor backing;
+
+unless such relationships actually exist.
+
+The project is independent unless an official relationship is established.
+
+---
+
+# 30. Relationship With OpenAI
+
+The community may be strongly interested in OpenAI and ChatGPT technologies.
+
+It may:
+
+- use OpenAI products where appropriate;
+- discuss OpenAI research;
+- build with OpenAI technologies;
+- organise community activities around ChatGPT;
+- propose future collaboration.
+
+However, the community must clearly distinguish:
+
+**independent community activity**
+
+from
+
+**official OpenAI activity.**
+
+---
+
+# 31. Recruitment Channels
+
+Future recruitment may use:
+
+- GitHub;
+- website;
+- LinkedIn;
+- relevant Reddit communities where appropriate;
+- university societies;
+- local technology communities;
+- existing meetup communities;
+- conferences;
+- robotics groups;
+- AI events.
+
+Recruitment messages must respect the rules of each platform.
+
+---
+
+# 32. Recruitment Funnel
+
+The intended funnel is:
+
+Discovery  
+↓  
+Website  
+↓  
+Mission  
+↓  
+Current Work  
+↓  
+Open Tasks  
+↓  
+Contribution  
+↓  
+Review  
+↓  
+Trust  
+↓  
+Responsibility
+
+---
+
+# 33. Success Criteria
+
+The contributor programme is successful when:
+
+1. A stranger can understand how to contribute.
+2. A stranger can find a small first task.
+3. Contributions can be submitted safely.
+4. Contributions can be reviewed.
+5. Good contributors can receive additional responsibility.
+6. Responsibilities can eventually be delegated away from the founder.
+7. The project remains maintainable as participation grows.
+
+---
+
+# 34. Stage-0 Objective
+
+The immediate goal is not mass recruitment.
+
+The immediate goal is:
+
+> **Find the first capable person who genuinely wants to help.**
+
+Then find the second.
+
+Then the third.
+
+The system should improve after every contributor.
+
+---
+
+# 35. Dependencies
+
+This document depends on:
+
+- CBK-000001 — Community Builder Blueprint;
+- CBK-000002 — Community Constitution;
+- CBK-000003 — Scalation Protocol;
+- CBK-000004 — Reality Check Panel;
+- CBK-000005 — Website Specification;
+- CBK-000006 — Website v0 + Physical Community;
+- CBK-000007 — Meetup System;
+- CBK-000008 — Founding Builder Programme.
+
+---
+
+# 36. Revision History
+
+### Version 1.0
+
+Initial First External Contributors system.
